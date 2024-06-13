@@ -5,4 +5,5 @@
 
 Rust bindings to [Lean 4](https://github.com/leanprover/lean4)'s C API
 
-Functions and comments manually translated from those in the [`lean.h` header](https://github.com/leanprover/lean4/blob/master/src/include/lean/lean.h) provided with Lean 4
+Functions and comments manually translated from those in the
+[`lean.h` header](https://github.com/leanprover/lean4/blob/master/src/include/lean/lean.h) provided with Lean 4.
